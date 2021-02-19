@@ -1,2 +1,2 @@
-# C-34-KillTheMonster
-Took Me Like 7 Hours Very Hard Project
+# PRO-C34-KILL-THE-MONSTER
+PRO-C34: KILL THE MONSTER
